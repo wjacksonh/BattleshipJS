@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{8ED0D108-845F-4405-B6E6-032DBBD36C7F}"
+	ProjectSection(SolutionItems) = preProject
+		scripts\battleship.js = scripts\battleship.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "content", "content", "{F01C6E52-84A9-4013-ADE7-417DD9E81878}"
+	ProjectSection(SolutionItems) = preProject
+		content\board.jpg = content\board.jpg
+		content\miss.png = content\miss.png
+		content\ship.png = content\ship.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "styles", "styles", "{017B198E-8E3D-4494-848A-297F57EA2314}"
+	ProjectSection(SolutionItems) = preProject
+		styles\battleship.css = styles\battleship.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7BABBE97-D6D5-4A19-A1CA-1F207A4FC1C2}"
+	ProjectSection(SolutionItems) = preProject
+		battleship.html = battleship.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
